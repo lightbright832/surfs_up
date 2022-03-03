@@ -7,7 +7,12 @@ Opening a surf shop is an exciting endeavor. While the surf shop could represent
 
 ![](https://github.com/lightbright832/surfs_up/blob/main/Percipitation.png)
 
+* Percipitation
 The business getting rained out is the biggest concern for W. Avy. He needs to see the historical percipitation records to identify any patterns in average rainfall for the area. The above image gives insight into what the average rainfall has been over the past few years.
+
+** June Percipitation
+
+![](https://github.com/lightbright832/surfs_up/blob/main/June%20Percipitation.png)
 
 
 
