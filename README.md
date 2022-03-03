@@ -15,10 +15,13 @@ The business getting rained out is the biggest concern for W. Avy. He needs to s
 
 ![](https://github.com/lightbright832/surfs_up/blob/main/June%20Percipitation.png)
 
+June shows higher temperatures and less rainfall that what will be seen in December. 
 
 * December Percipitation
 
 ![](https://github.com/lightbright832/surfs_up/blob/main/December%20Percipitation.png)
+
+During December temperatures still tend to stay in the mid 70s but there is a lot more rainfall during time. 
 
 ## Summary:
 Based on the statistics retrieved from this analysis it is clear to see that Oahu experiences more rain in December. June shows a lower average percipitation than December thus this is a great time for surfing. The surf shop would not be greatly impacted if it were open during the summer months. To further this analysis it would also be beneficial to run a query about past hurricanes and other natural disasters in the area. Historical weather data helps to gauge when the shop should be open and when it is best to close for the "winter" months. 
